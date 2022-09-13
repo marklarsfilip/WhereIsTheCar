@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+/* TAILWIND CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
