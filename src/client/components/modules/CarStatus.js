@@ -12,6 +12,8 @@ const CarStatus = ({ status }) => {
             } else {
                 setOldStatus('old');
             }
+        } else {
+            setOldStatus('new');
         }
     }, [status])
 
