@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays the passed data as status-card 1`] = `
+<div
+  className="basis-3/4"
+>
+  <h1
+    className="text-white text-xl mb-5"
+  >
+    Bilen är just nu 
+     
+    <span
+      className="text-[#d41730]"
+    >
+      upptagen
+    </span>
+    <span>
+       av undefined
+    </span>
+  </h1>
+  <p
+    className="text-white font-bold mb-3"
+  >
+    Beräknad återkomst 
+    <span
+      className="block font-normal"
+    />
+  </p>
+  <p
+    className="text-white font-bold mb-3"
+  >
+    Kommentar: 
+    <span
+      className="block font-normal"
+    >
+      -
+    </span>
+  </p>
+</div>
+`;
